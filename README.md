@@ -1,3 +1,10 @@
+Group-4 Members :
+1) Kiran Dabaria, B24080
+2) 
+3)
+4)
+5)
+
 ### Shallow foundation design platform (CE 402)
 A browser-based tool for shallow-foundation design in SI units (kN, kPa, m, mm). It accepts  **any**  soil profile and footing: no site value is hard-coded in app.py or geotech.py.
 | Module | What it does |
