@@ -1,0 +1,162 @@
+{
+ "wt_measured": 1.9,
+ "wt_design": 0.6,
+ "layers": [
+  {
+   "Name": "Fill",
+   "Type": "fill",
+   "Top (m)": 0.0,
+   "Bottom (m)": 0.9,
+   "γ moist (kN/m³)": 16.0,
+   "γ sat (kN/m³)": 18.0,
+   "c′ (kPa)": 0.0,
+   "φ′ (°)": 25,
+   "cu (kPa)": 0.0,
+   "SPT N (blows/0.3 m)": null,
+   "qc/N (kPa per blow)": 400.0,
+   "E user (kPa)": null,
+   "Cc (–)": 0.0,
+   "Cr (–)": 0.0,
+   "e0 top (–)": 0.0,
+   "e0 bottom (–)": 0.0,
+   "cv (m²/yr)": 0.0,
+   "OCR (–)": 1.0,
+   "σ′p add (kPa)": 0.0
+  },
+  {
+   "Name": "SM-loose",
+   "Type": "sand",
+   "Top (m)": 0.9,
+   "Bottom (m)": 2.6,
+   "γ moist (kN/m³)": 17.5,
+   "γ sat (kN/m³)": 19.5,
+   "c′ (kPa)": 0.0,
+   "φ′ (°)": 28.0,
+   "cu (kPa)": 0.0,
+   "SPT N (blows/0.3 m)": 6,
+   "qc/N (kPa per blow)": 400.0,
+   "E user (kPa)": null,
+   "Cc (–)": 0.0,
+   "Cr (–)": 0.0,
+   "e0 top (–)": 0.0,
+   "e0 bottom (–)": 0.0,
+   "cv (m²/yr)": 0.0,
+   "OCR (–)": 1.0,
+   "σ′p add (kPa)": 0.0
+  },
+  {
+   "Name": "SP",
+   "Type": "sand",
+   "Top (m)": 2.6,
+   "Bottom (m)": 4.4,
+   "γ moist (kN/m³)": 18.6,
+   "γ sat (kN/m³)": 20.0,
+   "c′ (kPa)": 0.0,
+   "φ′ (°)": 32.0,
+   "cu (kPa)": 0.0,
+   "SPT N (blows/0.3 m)": 14,
+   "qc/N (kPa per blow)": 500.0,
+   "E user (kPa)": null,
+   "Cc (–)": 0.0,
+   "Cr (–)": 0.0,
+   "e0 top (–)": 0.0,
+   "e0 bottom (–)": 0.0,
+   "cv (m²/yr)": 0.0,
+   "OCR (–)": 1.0,
+   "σ′p add (kPa)": 0.0
+  },
+  {
+   "Name": "CI",
+   "Type": "clay",
+   "Top (m)": 4.4,
+   "Bottom (m)": 11.2,
+   "γ moist (kN/m³)": 18.5,
+   "γ sat (kN/m³)": 18.5,
+   "c′ (kPa)": 0.0,
+   "φ′ (°)": 30.0,
+   "cu (kPa)": 20.0,
+   "SPT N (blows/0.3 m)": null,
+   "qc/N (kPa per blow)": 400.0,
+   "E user (kPa)": null,
+   "Cc (–)": 0.315,
+   "Cr (–)": 0.04,
+   "e0 top (–)": 0.945,
+   "e0 bottom (–)": 0.945,
+   "cv (m²/yr)": 2.0,
+   "OCR (–)": 1.0,
+   "σ′p add (kPa)": 20.0
+  },
+  {
+   "Name": "GW",
+   "Type": "gravel",
+   "Top (m)": 11.2,
+   "Bottom (m)": 15.0,
+   "γ moist (kN/m³)": 21.0,
+   "γ sat (kN/m³)": 21.5,
+   "c′ (kPa)": 0.0,
+   "φ′ (°)": 40.0,
+   "cu (kPa)": 0.0,
+   "SPT N (blows/0.3 m)": 100,
+   "qc/N (kPa per blow)": 800.0,
+   "E user (kPa)": null,
+   "Cc (–)": 0.0,
+   "Cr (–)": 0.0,
+   "e0 top (–)": 0.0,
+   "e0 bottom (–)": 0.0,
+   "cv (m²/yr)": 0.0,
+   "OCR (–)": 1.0,
+   "σ′p add (kPa)": 0.0
+  }
+ ],
+ "spt": [
+  {
+   "Depth (m)": 1.5,
+   "N (blows/0.3 m)": 6,
+   "Saturated fine/silty sand? (dilatancy)": false
+  },
+  {
+   "Depth (m)": 3.0,
+   "N (blows/0.3 m)": 14,
+   "Saturated fine/silty sand? (dilatancy)": true
+  },
+  {
+   "Depth (m)": 4.5,
+   "N (blows/0.3 m)": 4,
+   "Saturated fine/silty sand? (dilatancy)": false
+  },
+  {
+   "Depth (m)": 6.0,
+   "N (blows/0.3 m)": 4,
+   "Saturated fine/silty sand? (dilatancy)": false
+  },
+  {
+   "Depth (m)": 7.5,
+   "N (blows/0.3 m)": 5,
+   "Saturated fine/silty sand? (dilatancy)": false
+  },
+  {
+   "Depth (m)": 9.0,
+   "N (blows/0.3 m)": 6,
+   "Saturated fine/silty sand? (dilatancy)": false
+  },
+  {
+   "Depth (m)": 10.5,
+   "N (blows/0.3 m)": 8,
+   "Saturated fine/silty sand? (dilatancy)": false
+  }
+ ],
+ "direct_shear": [
+  {
+   "σn (kPa)": 50.0,
+   "τf (kPa)": 29.8
+  },
+  {
+   "σn (kPa)": 100.0,
+   "τf (kPa)": 58.9
+  },
+  {
+   "σn (kPa)": 150.0,
+   "τf (kPa)": 87.5
+  }
+ ]
+}
