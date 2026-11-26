@@ -2,8 +2,8 @@ Group-4 Members :
 1) Kiran Dabaria, B24080
 2) Devom Garg, B24071
 3) Saransh Goyal, B24092
-4)
-5)
+4)Ayushi Mathur, B24066
+5)Gauri Agarwal, B24077
 
 ### Shallow foundation design platform (CE 402)
 A browser-based tool for shallow-foundation design in SI units (kN, kPa, m, mm). It accepts  **any**  soil profile and footing: no site value is hard-coded in app.py or geotech.py.
