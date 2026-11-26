@@ -147,7 +147,7 @@ def inject_styles():
             color: #F1F5F9 !important;
         }
         .block-container {
-            padding-top: 1.25rem;
+            padding-top: 3.6rem;
             padding-bottom: 3rem;
             max-width: 1400px;
         }
